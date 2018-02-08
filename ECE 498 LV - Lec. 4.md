@@ -109,5 +109,7 @@ Further $y = A^Tx$ so get result
 
 
 
+$\lambda \sum_{i} w_i^2​$
 
+\frac{\sum_{i = 1}^{n}\sum_{j = 1}^{n}\sum_{k = 1}^{n} \mathbf{A}_{ij}\mathbf{A}_{jk}\mathbf{A}_{ki}}{6}$
 
